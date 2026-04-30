@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://neuronia.site/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://neuronia.site/categorias/productividad-estudio/</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -39,6 +39,12 @@
   <url>
     <loc>https://neuronia.site/categorias/productividad-estudio/como-usar-ia-para-investigar-mas-rapido/</loc>
     <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://neuronia.site/categorias/productividad-estudio/prompts-chatgpt-para-estudiar-mejor/</loc>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -68,7 +74,7 @@
   </url>
   <url>
     <loc>https://neuronia.site/categorias/diseno-imagen-video/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -87,6 +93,12 @@
   <url>
     <loc>https://neuronia.site/categorias/diseno-imagen-video/crear-miniaturas-youtube-con-ia/</loc>
     <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://neuronia.site/categorias/diseno-imagen-video/mejor-ia-para-hacer-presentaciones-2026/</loc>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
